@@ -1,3 +1,3 @@
-## Tetris: Honey Edition
+# Tetris: Honey Edition
 A Java and LibGDX recreation of Tetris with a sweet twist.
 ...
